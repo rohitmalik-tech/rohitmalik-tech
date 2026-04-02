@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rohit Malik 👋
 
-<!--
-**rohitmalik-tech/rohitmalik-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst
+📊 SQL | Excel | Power BI | Tableau
+📍 Pune, India
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Excel
+* Power BI
+* Tableau
+* Data Cleaning & EDA
+
+## 📈 Projects
+
+* Zomato Data Analysis
+* Customer Churn Analysis
+* Superstore Analysis
+
+## 🔗 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/rohit-malik-409124395
