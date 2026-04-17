@@ -15,8 +15,9 @@
 ## 📈 Projects
 
 * Zomato Data Analysis
+* IPL Performance Dashboard
 * Customer Churn Analysis
-* Superstore Analysis
+  
 
 ## 🔗 Connect with me
 
